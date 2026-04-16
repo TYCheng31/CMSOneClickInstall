@@ -4,7 +4,7 @@ Combine all package installation steps into a one-click installation. After inst
 
 ## Version 
 
-CMS: v1.5.0 <https://cms-dev.github.io/>
+CMS: v1.5.0 <https://cms-dev.github.io/>  
 OS: Ubuntu 24.04LTS
 
 ## Install
